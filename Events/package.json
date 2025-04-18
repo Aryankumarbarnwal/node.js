@@ -1,0 +1,17 @@
+{
+  "name": "api_cal",
+  "version": "1.0.0",
+  "description": "in node there is no any type of button so we use api to show the events",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mysql": "^2.18.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
